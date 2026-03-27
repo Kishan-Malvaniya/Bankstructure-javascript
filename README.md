@@ -1,1 +1,1 @@
-# Bankstructure-javascript
+# Bank-system-js
